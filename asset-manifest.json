@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/milionryb.pl/static/css/main.976268f5.css",
+    "main.js": "/milionryb.pl/static/js/main.b99effac.js",
+    "static/media/footer.jpg": "/milionryb.pl/static/media/footer.439535650df1c2a28cbb.jpg",
+    "static/media/logo.png": "/milionryb.pl/static/media/logo.8ce34f480be3188e6bce.png",
+    "index.html": "/milionryb.pl/index.html",
+    "main.976268f5.css.map": "/milionryb.pl/static/css/main.976268f5.css.map",
+    "main.b99effac.js.map": "/milionryb.pl/static/js/main.b99effac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.976268f5.css",
+    "static/js/main.b99effac.js"
+  ]
+}
